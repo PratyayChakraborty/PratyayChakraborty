@@ -19,12 +19,13 @@
 
 
 - 💬 Ask me about anything, I am happy to help <img width="15" src="https://i.gifer.com/origin/b3/b34dc1592ae8556da933835c0d532738_w200.webp">
+- - 📫 How to reach me **pratyaychakraborty024@gmail.com** <img width="15" src="https://i.gifer.com/origin/b3/b34dc1592ae8556da933835c0d532738_w200.webp">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratyaychakraborty&label=Profile%20views&color=0e75b6&style=flat" alt="pratyaychakraborty" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pratyaychakraborty" alt="pratyaychakraborty" /></a> </p>
 
-- 📫 How to reach me **pratyaychakraborty024@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
