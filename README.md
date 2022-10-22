@@ -1,10 +1,10 @@
 <!-- <h1 align="center"><img src="" > <br> I'm Pratyay Chakraborty</h1> -->
 
-h1 align="center">Hi , I'm Pratyay Chakraborty 👋</h1>
+<h1 align="center">Hi , I'm Pratyay Chakraborty 👋</h1>
 <h3 align="center">A passionate Developer, Programmer & Tech-savvy person from India</h3>
 
 
-<img align="right" alt="Coding" width="400" src="[https://github.com/Dev-Mriganka/Dev-Mriganka/blob/main/coding-freak%20(1).gif](https://i.pinimg.com/originals/5a/ab/23/5aab239aeaf861b629f3eac134d6bf74.gif)">
+<img align="right" alt="Coding" width="400" src="[https://i.pinimg.com/originals/5a/ab/23/5aab239aeaf861b629f3eac134d6bf74.gif](https://i.pinimg.com/originals/5a/ab/23/5aab239aeaf861b629f3eac134d6bf74.gif)">
 
 - 🌱 I’m currently learning **Spring Boot** &nbsp; <img width="15" src="https://i.gifer.com/origin/b3/b34dc1592ae8556da933835c0d532738_w200.webp">
 
@@ -13,7 +13,7 @@ h1 align="center">Hi , I'm Pratyay Chakraborty 👋</h1>
 
 
 <!-- Resume -->
--  <img width="20" src = "https://user-images.githubusercontent.com/66555692/190847273-1a125e30-6bb9-4221-916f-47ef6d774f58.png" > Checkout my [Resume](https://drive.google.com/drive/u/0/folders/1hlj2RywFQLkkBV4wIhilqpkFpqdpp7dK) &nbsp; <img width="15" src="https://i.gifer.com/origin/b3/b34dc1592ae8556da933835c0d532738_w200.webp">
+-  <img width="20" src = "https://user-images.githubusercontent.com/66555692/190847273-1a125e30-6bb9-4221-916f-47ef6d774f58.png" > Checkout my [Resume]([https://drive.google.com/drive/u/0/folders/1hlj2RywFQLkkBV4wIhilqpkFpqdpp7dK](https://drive.google.com/file/d/1PRobhkecI-gexVUy3AOgfaonP9d-MlsF/view?usp=sharing)) &nbsp; <img width="15" src="https://i.gifer.com/origin/b3/b34dc1592ae8556da933835c0d532738_w200.webp">
 
 
 <!-- <img width="30" src = "https://user-images.githubusercontent.com/66555692/190847273-1a125e30-6bb9-4221-916f-47ef6d774f58.png" > -->
