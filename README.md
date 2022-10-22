@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://rishavanand.github.io/static/images/greetings.gif"  height="60" width="400"> <br> I'm Pratyay Chakraborty</h1>
+<h1 align="center"><img src="https://rishavanand.github.io/static/images/greetings.gif"  height="100" width="400"> <br> I'm Pratyay Chakraborty</h1>
 
 <h3 align="center">A passionate frontend developer from India</h3>
 
