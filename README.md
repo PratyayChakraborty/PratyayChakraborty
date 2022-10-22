@@ -1,5 +1,5 @@
 <!--<img src="https://beinsure.com/wp-content/uploads/2022/10/1-4.jpg"> -->
-<img src="https://i.gremicdn.pl/image/free/05837d3e92e4a69249e7bee39086f179/?t=resize:fill:408:255,enlarge:1">
+<img src="https://media.bitdegree.org/storage/media/images/2018/11/What-Is-A-Full-Stack-Developer-and-Everything-You-Need-to-Know-to-Start.jpg">
 
 <!-- <img width="100" height="100"  align="center" src="https://media.tenor.com/fFWcjOYqpWMAAAAM/jasgagger-jason.gif" > -->
 <h1 align="center">Hi , I'm Pratyay Chakraborty  <img width="60" height="60"  align="center" src="https://media.tenor.com/fFWcjOYqpWMAAAAM/jasgagger-jason.gif" > </h1>
