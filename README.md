@@ -1,5 +1,5 @@
 <img src="https://beinsure.com/wp-content/uploads/2022/10/1-4.jpg">
-<h1 align="center">Hi , I'm Pratyay Chakraborty 👋</h1>
+<h1 align="center">Hi , I'm Pratyay Chakraborty <img src="https://media.tenor.com/fFWcjOYqpWMAAAAM/jasgagger-jason.gif"></h1>
 <h3 align="center">A passionate Developer, Programmer & Tech-savvy person from India</h3>
 
 
@@ -19,7 +19,7 @@
 
 
 - 💬 Ask me about anything, I am happy to help <img width="15" src="https://i.gifer.com/origin/b3/b34dc1592ae8556da933835c0d532738_w200.webp">
-- - 📫 How to reach me **pratyaychakraborty024@gmail.com** <img width="15" src="https://i.gifer.com/origin/b3/b34dc1592ae8556da933835c0d532738_w200.webp">
+- 📫 How to reach me **pratyaychakraborty024@gmail.com** <img width="15" src="https://i.gifer.com/origin/b3/b34dc1592ae8556da933835c0d532738_w200.webp">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratyaychakraborty&label=Profile%20views&color=0e75b6&style=flat" alt="pratyaychakraborty" /> </p>
 
