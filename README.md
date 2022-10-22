@@ -1,5 +1,5 @@
 <img src="https://beinsure.com/wp-content/uploads/2022/10/1-4.jpg">
-<h1 align="center">Hi , I'm Pratyay Chakraborty <img src="https://media.tenor.com/fFWcjOYqpWMAAAAM/jasgagger-jason.gif"></h1>
+<h1 align="center">Hi , I'm Pratyay Chakraborty <img src="https://media.tenor.com/fFWcjOYqpWMAAAAM/jasgagger-jason.gif" width="100" height="100" border-radious="50%"></h1>
 <h3 align="center">A passionate Developer, Programmer & Tech-savvy person from India</h3>
 
 
