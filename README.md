@@ -1,4 +1,4 @@
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtH8SiOdLyYMpFu052rAffErg-3ByrtbgUTQ&usqp=CAU">
+<img src="[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtH8SiOdLyYMpFu052rAffErg-3ByrtbgUTQ&usqp=CAU](https://beinsure.com/wp-content/uploads/2022/10/1-4.jpg)">
 <h1 align="center">Hi , I'm Pratyay Chakraborty 👋</h1>
 <h3 align="center">A passionate Developer, Programmer & Tech-savvy person from India</h3>
 
