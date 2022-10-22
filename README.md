@@ -1,6 +1,6 @@
 <img src="https://beinsure.com/wp-content/uploads/2022/10/1-4.jpg">
 <!-- <img width="100" height="100"  align="center" src="https://media.tenor.com/fFWcjOYqpWMAAAAM/jasgagger-jason.gif" > -->
-<h1 align="center">Hi , I'm Pratyay Chakraborty </h1>
+<h1 align="center">Hi , I'm Pratyay Chakraborty  <img width="60" height="60"  align="center" src="https://media.tenor.com/fFWcjOYqpWMAAAAM/jasgagger-jason.gif" > </h1>
 <h3 align="center">A passionate Developer, Programmer & Tech-savvy person from India</h3>
 
 
