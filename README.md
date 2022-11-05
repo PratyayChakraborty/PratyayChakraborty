@@ -3,6 +3,9 @@
 
 <!-- <img width="100" height="100"  align="center" src="https://media.tenor.com/fFWcjOYqpWMAAAAM/jasgagger-jason.gif" > -->
 <h1 align="center">Hi , I'm Pratyay Chakraborty  <img width="60" height="60"  align="center" src="https://media.tenor.com/fFWcjOYqpWMAAAAM/jasgagger-jason.gif" > </h1>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2500&lines=Software+Engineer;backened+developer;fullstack+developer" > 
+</p>
 <h3 align="center">A passionate Developer, Programmer & Tech-savvy person from India</h3>
 
 
