@@ -29,7 +29,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratyaychakraborty&label=Profile%20views&color=0e75b6&style=flat" alt="pratyaychakraborty" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pratyaychakraborty&theme=algolia" alt="pratyaychakraborty" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pratyaychakraborty&theme=solarized_dark" alt="pratyaychakraborty" /></a> </p>
 
  <h2> 📊 Github Stats</h2>
 <p align="center">
@@ -41,8 +41,8 @@
 	
 </p>
 <p align="center" style="margin-right:0px;padding-right:0px">
-<img src="https://github-readme-stats.vercel.app/api?username=pratyaychakraborty&theme=algolia" width="400">
-<img alt="streak stats" src="https://github-readme-streak-stats.herokuapp.com/?user=pratyaychakraborty&theme=algolia" width="400">
+<img src="https://github-readme-stats.vercel.app/api?username=pratyaychakraborty&theme=solarized_dark" width="400">
+<img alt="streak stats" src="https://github-readme-streak-stats.herokuapp.com/?user=pratyaychakraborty&theme=solarized_dark" width="400">
 </p>
 
 
