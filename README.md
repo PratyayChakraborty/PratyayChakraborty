@@ -40,10 +40,12 @@
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pratyaychakraborty&theme=solarized_dark&utcOffset=8">
 	
 </p>
-<p align="center" style="margin-right:0px;padding-right:0px">
+<p align="left" style="margin-right:0px;padding-right:0px">
 <img src="https://github-readme-stats.vercel.app/api?username=pratyaychakraborty&theme=algolia">
 <img alt="streak stats" src="https://github-readme-streak-stats.herokuapp.com/?user=pratyaychakraborty&theme=algolia" />
 </p>
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/pratyay-chakraborty-44a7461b3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pratyay-chakraborty-44a7461b3/" height="30" width="40" /></a>
