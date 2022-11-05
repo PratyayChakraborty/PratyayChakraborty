@@ -33,8 +33,8 @@
 
  <h2> 📊 Github Stats</h2>
 <p align="center">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pratyaychakraborty&theme=dark">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pratyaychakraborty&theme=solarized_dark">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pratyaychakraborty&theme=solarized_dark">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pratyaychakraborty">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pratyaychakraborty&theme=solarized_dark">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=pratyaychakraborty&theme=solarized_dark">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pratyaychakraborty&theme=solarized_dark&utcOffset=8">
