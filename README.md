@@ -41,8 +41,8 @@
 	
 </p>
 <p align="left" style="margin-right:0px;padding-right:0px">
-<img src="https://github-readme-stats.vercel.app/api?username=pratyaychakraborty&theme=solarized_dark">
-<img alt="streak stats" src="https://github-readme-streak-stats.herokuapp.com/?user=pratyaychakraborty&theme=solarized_dark" />
+<img src="https://github-readme-stats.vercel.app/api?username=pratyaychakraborty&theme=algolia">
+<img alt="streak stats" src="https://github-readme-streak-stats.herokuapp.com/?user=pratyaychakraborty&theme=algolia" />
 </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
