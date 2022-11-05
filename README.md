@@ -31,13 +31,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pratyaychakraborty" alt="pratyaychakraborty" /></a> </p>
 
- <h2> 📊 Github Stats ....</h2>
+ <h2> 📊 Github Stats</h2>
 <p align="center">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=username=pratyaychakraborty&theme=solarized_dark">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=username=pratyaychakraborty&theme=solarized_dark">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=username=pratyaychakraborty&theme=solarized_dark">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?usernameusername=pratyaychakraborty&theme=solarized_dark">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=username=pratyaychakraborty&theme=solarized_dark&utcOffset=8">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pratyaychakraborty&theme=solarized_dark">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pratyaychakraborty&theme=solarized_dark">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pratyaychakraborty&theme=solarized_dark">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=pratyaychakraborty&theme=solarized_dark">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pratyaychakraborty&theme=solarized_dark&utcOffset=8">
 	
 </p>
 
