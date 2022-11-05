@@ -44,7 +44,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=pratyaychakraborty&theme=algolia" width="400">
 <img alt="streak stats" src="https://github-readme-streak-stats.herokuapp.com/?user=pratyaychakraborty&theme=algolia" width="400">
 </p>
-<a href="https://github.com/hustler-abhi"><img alt="Abhishek's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=hustler-abhi&custom_title=Abhishek's%20Contribution%20Graph&theme=react-dark" /></a>
+<a href="https://github.com/pratyaychakraborty"><img alt="Pratyay's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=pratyaychakrabortyi&custom_title=Abhishek's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 
 <h3 align="left">Connect with me:</h3>
