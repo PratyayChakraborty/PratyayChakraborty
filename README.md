@@ -42,7 +42,8 @@
 </p>
 <p align="center" style="margin-right:0px;padding-right:0px">
 <!--                <img src="https://github-readme-stats.vercel.app/api?username=pratyaychakraborty&theme=algolia" width="400"> -->
-	![](https://raw.githubusercontent.com/pratyaychakraborty/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+<!-- 	[](https://raw.githubusercontent.com/pratyaychakraborty/github-stats/master/generated/overview.svg#gh-dark-mode-only) -->
+		<img src="https://raw.githubusercontent.com/pratyaychakraborty/github-stats/master/generated/overview.svg#gh-dark-mode-only" width="400">
                <img alt="streak stats" src="https://github-readme-streak-stats.herokuapp.com/?user=pratyaychakraborty&theme=algolia" width="400">
 </p>
 
